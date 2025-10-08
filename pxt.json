@@ -4,8 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*",
-        "robotbit": "github:kittenbot/pxt-robotbit#v0.4.8"
+        "microphone": "*"
     },
     "files": [
         "main.ts",
